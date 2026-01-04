@@ -1,0 +1,6 @@
+# Suggested additions (your existing .gitignore already covers most)
+.Rproj.user/
+.Rhistory
+.RData
+.Ruserdata
+plots/.DS_Store
